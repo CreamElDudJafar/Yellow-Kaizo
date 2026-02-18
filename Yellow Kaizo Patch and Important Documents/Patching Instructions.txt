@@ -1,0 +1,22 @@
+How to patch:
+
+Yellow Kaizo patches need to be patched to a clean copy of Pokemon Yellow Special Pikachu Edition.
+
+When you apply the patch, make sure the information below matches up correctly to ensure you have the correct game.
+If/When new versions come out, ALWAYS have to repatch the original game, NEVER a patch on a patch.
+
+
+CRC32:
+7d527d62
+
+MD5:
+d9290db87b1f0a23b89f99ee4469e34b
+
+SHA-1:
+cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1
+
+This information can easily be seen in a patcher website: https://www.marcrobledo.com/RomPatcher.js/
+This is just one website that can do it, but their is others.
+
+If you need assistance further with patching here is a video: https://www.youtube.com/watch?v=QSoMxIC9384
+

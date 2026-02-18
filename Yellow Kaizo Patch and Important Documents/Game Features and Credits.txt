@@ -1,15 +1,14 @@
-# Pokémon Yellow Kaizo
-
 This game would not be made without everyone credited for help making it, as well as testing it and playing it. Features of this game and
 credits are below.
 
-If you are reading this and are considering playing this game, thank you and Enjoy.
+If you are reading this and
+are considering playing this game, thank you and Enjoy.
 
-Welcome to Yellow Kaizo. Yellow Kaizo is a remaster and upgrade QOL version to the legendary Blue Kaizo. It is designed to feel like Blue Kaizo, but be much more fun, harder and improving on quality of life features throughout the course of the game. The mazes
-are back, the trainers are more difficult, items can't be used in battle, and if you think you are up for a challenge, then play the game on the hardcore setting.
+Welcome to Yellow Kaizo. Yellow Kaizo is a remaster/ upgrade to the legendary Blue Kaizo. It is designed to feel like Blue
+Kaizo, but be much more fun, harder and improving on quality of life features throughout the course of the game.
 
 
-Some Of The Many New Features:
+Features:
 
 New game title graphic and updated SGB Border graphic
 Now you can Play Gen1 as either Red, Green, or Yellow
@@ -183,5 +182,3 @@ Poke-Amaranth
 
 
 - IF ANY CREDITS ARE MISSED PLEASE REACH OUT AND WE WILL GLADLY ADD YOUR NAME AND CONTRIBUTIONS TO THE PAGE :)
-
-**** FINALLY PLEASE REPORT ANY ISSUES OR BUGS TO SINISTERHOODEDFIGURE, CREAMELDUDJAFAR, OR RARESTCANDY (MR.KEATING)****

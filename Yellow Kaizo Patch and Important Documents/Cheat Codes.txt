@@ -1,0 +1,56 @@
+All cheats should be disabled after use because they can cause issues if enabled, especially in battle when displaying moves. 
+Use with CAUTION AND AGAIN DISABLE AFTER USE.
+
+
+Infinite Money:
+
+019946D3
+019947D3
+019948D3 ; May cause visual issues in battle or title screen if not disabled
+
+
+Walk Through Wall:
+
+010138CD
+
+
+Rare Candies in Mart:
+
+0128E1D0
+
+
+Master Balls in Mart:
+
+0101E1D0
+
+
+9999 Coins:
+
+0199A3D5
+0199A4D5
+
+
+Unlock Almost All Moves In The Movedex (Missing Last 5 Moves For Player To Find In Game :))
+
+01FF2FD3
+01FF30D3
+01FF31D3
+01FF32D3
+01FF33D3
+01FF34D3
+01FF35D3
+01FF36D3
+01FF37D3
+01FF38D3
+01FF39D3
+01FF3AD3
+01FF3BD3
+01FF3CD3
+01FF3DD3
+01FF3ED3
+01FF3FD3
+01FF40D3
+01FF41D3
+01FF42D3
+
+
