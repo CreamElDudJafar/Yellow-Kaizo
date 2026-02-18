@@ -14,81 +14,157 @@ are back, the trainers are more difficult, items can't be used in battle, and if
 Some Of The Many New Features:
 
 -New game title graphic and updated SGB Border graphic
+
 -Now you can Play Gen1 as either Red, Green, or Yellow
+
 -Two Modes: Hard Mode and Not Fun Mode (Hardcore Mode). *Not Fun Mode trainers have perfect DVs/Forced Set Mode, NO STAT EXPERIENCE, -NO BADGE BOOST
+
 -Instant text mode option
+
 -Color Attacks and Color Pokeballs
+
 -All 151 Pokémons can be caught or evolved without trading
+
 -Blue has his own bedroom
+
 -Can Surrender in Battle by clicking RUN
+
 -Trade evolution pokemon evolve by leveling up
--Now you can take both fossils in MT. MOON!
+
+-Now you can take both fossils in MT. MOON
+
 -IN-GAME MOVES/ EVOLUTIONS/ LEARNSET in POKEDEX
+
 -MOVEDEX BUILT INTO POKEDEX
+
 -Can change between LAND, WATER (SURF), and RODs to see wild Pokemon locations
+
 -CAN PRESS UP/DOWN ON POKEMON PAGE/ IN BATTLE TO SEE POKEMON STATS
+
 -Gym Leaders, Rival, Rockets and other trainers had a buff in level, moves and parties (some parties to match Anime/Lets go -Pikachu/References)
+
 -Extra Jessie and James fights
+
 -Move Relearner- Look for Kris sprite
+
 -Move Deleter- Look for Kris sprite
+
 -Updated Pokeball/Pokedex sprites
+
 -Fishing Rod Encounters Displayed in Pokedex
+
 -EXP Bar on Status Screen- Blue
+
 -Max Repels- STOPS ALL WILD ENCOUNTERS- NO MATTER WHAT
+
 -Can’t deposit HMs- prevent softlock
+
 -Sound Player in Options Menu (Press Select)
+
 -Traded Pokemon in Game can now be renamed with Name Rater in Lavendar
+
 -Gym Leader Names on Trainer Card
+
 -Restored “Presents” on Intro
+
 -All overworld Pokémon icons have been updated (no more generic ones)
+
 -Party Mini sprites have been updated for all 151 Pokemon
+
 -Caught Pokémon icon added in HUD Battle
+
 -Several POKÉMON had learnsets buffs (eg: Charizard Fly)
+
 -Pikachu and Raichu can learn SURF through HM: Can do Surfing MiniGame now
+
 -Pikachu can learn FLY (New Pikachu Flying Sprite) and now CUT
+
 -TM names in BAG and MART (TM24 it says TM24 THNDRBLT)
+
 -60 item bag space
+
 -Item Count display in bag and PC
+
 -Auto HM use (eg: surf, just touch the water and say YES)
+
 -Deletable HM's
+
 -Sort Items in BAG- Press Start while in bag
+
 -PRESS SELECT IF HAVE BICYCLE to use it from Overworld
+
 -Message when PC is full
+
 -Check STAT EXP/DV - hold start for DVs and or hold select for STAT EXP when clicking A on Pokemon STATS
+
 -Caught Icon in battle
+
 -Reusable Repel system like later generations
+
 -Attack after waking up from Sleep
+
 -Low HP alarm only plays three times then turns itself off
+
 -Sleep engine fixed (it works now like gen 2 - max 6 turns)
+
 -Removed 25% chance for enemy stat down moves to miss
+
 -Stats reset now after curing Pokemon of Burn or Paralyze
+
 -Swift will not hit throught Fly or Dig
+
 -SS Anne Captain Takes SS Ticket and shreds it
+
 -Secret Key, Lift Key, Card Key Consumed and then removed from bag when used (Card Key- Open every single door in Silph)
+
 -Town Map in Start Menu and Pokedex
+
 -Running and Surfing Sprites
+
 -Lapras Swims in Fuchsia City
+
 -Elevator time shorter and tells you what floor you are on
+
 -Bill PC now says how many pokemon are in a box
+
 -Bill PC has a Pokemon View Mode. Press select on Withdraw to see the Pokemon currently in the box
+
 -Can fly in Safari Zone, Viridan Forest, Celadon Roofs now
+
 -Elite 4 door sound effect
+
 -PC in Daycare
+
 -Route 19 Drink Stand
+
 -Can click A Button to use Poke Flute on Snorlax
+
 -ADDED TM51: FLAMETHROWER
+
 -Mr Mime in Red’s house after Erika
+
 -Seafoam Islands now Blue
+
 -Elite 4 members play Gym Leader Music
+
 -EXP ALL IS NOW A KEY ITEM: TURN IT ON OR OFF FOR USAGE
+
 -SS Anne returns after 6th Badge
+
 -Janine is in Kogas gym training
+
 -Overworld sprites for gym leaders
+
 -Can trade and battle with Blue Kaizo
+
 -Link Battle Pokeballs are Red
+
 -Coin Clerk in Celadon will sell coins in bulk after 4th Badge
+
 -Celadon Hotel has Pokemon Observer: Will give Coins based on if player owns Pokemon and in 1st Party slot. (Resets Pokemon if you -exit Hotel or Save and Power Off/On
+
 -2 Secret/Post Game Boss Battles
+
 -BUG FIXES FROM VANILLA POKEMON YELLOW
 
 
