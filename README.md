@@ -99,8 +99,6 @@ Some Of The Many New Features:
 
 -Check STAT EXP/DV - hold start for DVs and or hold select for STAT EXP when clicking A on Pokemon STATS
 
--Caught Icon in battle
-
 -Reusable Repel system like later generations
 
 -Attack after waking up from Sleep
