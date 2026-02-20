@@ -101,8 +101,6 @@ Some Of The Many New Features:
 
 -Reusable Repel system like later generations
 
--Attack after waking up from Sleep
-
 -Low HP alarm only plays three times then turns itself off
 
 -Sleep engine fixed (it works now like gen 2 - max 6 turns)
