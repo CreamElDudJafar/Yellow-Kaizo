@@ -107,6 +107,8 @@ Some Of The Many New Features:
 
 -Stats reset now after curing Pokemon of Burn or Paralyze
 
+-Removed Fly and Dig glitch
+
 -SS Anne Captain Takes SS Ticket and shreds it
 
 -Secret Key, Lift Key, Card Key Consumed and then removed from bag when used (Card Key- Open every single door in Silph)
