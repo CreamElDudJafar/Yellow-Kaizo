@@ -103,13 +103,9 @@ Some Of The Many New Features:
 
 -Low HP alarm only plays three times then turns itself off
 
--Sleep engine fixed (it works now like gen 2 - max 6 turns)
-
 -Removed 25% chance for enemy stat down moves to miss
 
 -Stats reset now after curing Pokemon of Burn or Paralyze
-
--Swift will not hit throught Fly or Dig
 
 -SS Anne Captain Takes SS Ticket and shreds it
 
