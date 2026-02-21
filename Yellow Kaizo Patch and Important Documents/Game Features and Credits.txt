@@ -52,14 +52,12 @@ Sort Items in BAG- Press Start while in bag
 PRESS SELECT IF HAVE BICYCLE to use it from Overworld
 Message when PC is full
 Check STAT EXP/DV - hold start for DVs and or hold select for STAT EXP when clicking A on Pokemon STATS
-Caught Icon in battle
 Reusable Repel system like later generations
-Attack after waking up from Sleep
 Low HP alarm only plays three times then turns itself off
 Sleep engine fixed (it works now like gen 2 - max 6 turns)
 Removed 25% chance for enemy stat down moves to miss
 Stats reset now after curing Pokemon of Burn or Paralyze
-Swift will not hit throught Fly or Dig
+Removed Fly and Dig glitch
 SS Anne Captain Takes SS Ticket and shreds it
 Secret Key, Lift Key, Card Key Consumed and then removed from bag when used (Card Key- Open every single door in Silph)
 Town Map in Start Menu and Pokedex
