@@ -131,6 +131,8 @@ Some Of The Many New Features:
 
 -PC in Daycare
 
+-Ghost Type Super Effective on Psychic Types Now
+
 -Route 19 Drink Stand
 
 -Can click A Button to use Poke Flute on Snorlax
