@@ -23,6 +23,10 @@ Some Of The Many New Features:
 
 -Instant text mode option
 
+-PIKACHU gets an increased badge boost. Multiply by additional 1.25
+
+-PIKACHU STAT CHANGES
+
 -Color Attacks and Color Pokeballs
 
 -All 151 Pokémons can be caught or evolved without trading
@@ -109,7 +113,29 @@ Some Of The Many New Features:
 
 -Removed Fly and Dig glitch
 
+-Fix Focus Energy To actually multiply crit rate instead of dividing
+
+-Fix Moves that have 100% chance to CRITICAL HIT miss (1/256)
+
+-Fix Substitute Can Make You Faint At 0HP Bug / Fix Substitute Visual Bugs
+
+-Healing moves like Recover won't fail incorrectly when restoring exactly 255 HP
+
+-Fix Transform Ditto glitch when sweapping move position
+
+-Fix CooltrainerFAI (10-20% switching bug)
+
+-Acid Armor Pokemon Sprite doesn't leave screen now
+
+-Fix NPCs Receiving Wrong Movement and Behave Wrong
+
+-Moves that could Incorrectly hit Substitute will now miss or break the substitute
+
 -SS Anne Captain Takes SS Ticket and shreds it
+
+-Can no longer Hold Left to walk past cycling road guards
+
+-Itemfinder can now find items if coordinate for x or y is 0
 
 -Secret Key, Lift Key, Card Key Consumed and then removed from bag when used (Card Key- Open every single door in Silph)
 
@@ -118,6 +144,8 @@ Some Of The Many New Features:
 -Running and Surfing Sprites
 
 -Lapras Swims in Fuchsia City
+
+-Add SS Anne to Town Map
 
 -Elevator time shorter and tells you what floor you are on
 
