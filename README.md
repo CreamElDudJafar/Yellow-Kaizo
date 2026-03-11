@@ -7,6 +7,8 @@ If you are reading this and are considering playing this game, thank you and Enj
 
 Can download by clicking on the folder and downloading each file/patch, or go into releases and download everything from a zip file at once.
 
+There are 2 patches: Yellow Kaizo, and Yellow Kaizo Nuzlocke Patch. Nuzlocke patch replaces the Map in Start Menu with Port PC. Also added in PC the following items at the start of the game. Healing Kit, Repellent and Candy Bag. Otherwise game is the same!
+
 Welcome to Yellow Kaizo. Yellow Kaizo is a remaster and upgrade QOL version to the legendary Blue Kaizo. It is designed to feel like Blue Kaizo, but be much more fun, harder and improving on quality of life features throughout the course of the game. The mazes
 are back, the trainers are more difficult, items can't be used in battle, and if you think you are up for a challenge, then play the game on the hardcore setting.
 

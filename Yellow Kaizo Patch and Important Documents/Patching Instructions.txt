@@ -2,6 +2,8 @@ How to patch:
 
 Yellow Kaizo patches need to be patched to a clean copy of Pokemon Yellow Special Pikachu Edition.
 
+There are 2 patches: Yellow Kaizo, and Yellow Kaizo Nuzlocke Patch. Nuzlocke patch replaces the Map in Start Menu with Port PC. Also added in PC the following items at the start of the game. Healing Kit, Repellent and Candy Bag
+
 When you apply the patch, make sure the information below matches up correctly to ensure you have the correct game.
 If/When new versions come out, ALWAYS have to repatch the original game, NEVER a patch on a patch.
 
